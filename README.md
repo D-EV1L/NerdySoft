@@ -1,5 +1,4 @@
-# NerdySoft
-Test task for NerdySoft
+# Floor planning
 
 The application helps with floor planning, checks the validity of the room.
 It processes some REST requests and stores valid rooms in a "database" - HashMap (for example only). The map can be easily replaced with any other database.
